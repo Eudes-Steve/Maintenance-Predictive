@@ -10,7 +10,6 @@ de moteurs d'avion à partir de données capteurs industriels NASA.
 - Algorithme : Random Forest (100 estimateurs)
 
 ## Visualisations
-## Visualisations
 
 ### RUL par moteur
 ![RUL par moteur](images/RUL_par_moteur.png)
