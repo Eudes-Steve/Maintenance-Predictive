@@ -58,6 +58,6 @@ NASA CMAPSS — C-MAPSS Aircraft Engine Simulator Data
 - Visualisation et interprétation des résultats 
 
 ## Perspectives
-Prochainement je compte complété par une implémentation 
+Prochainement je compte compléter par une implémentation 
 avec un réseau de neurones LSTM afin de comparer ses performances 
 avec le Random Forest et le XGBoost sur ce même dataset.
