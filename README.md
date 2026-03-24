@@ -10,9 +10,16 @@ de moteurs d'avion à partir de données capteurs industriels NASA.
 - Algorithme : Random Forest (100 estimateurs)
 
 ## Visualisations
-![RUL par moteur](images/RUL_par_moteur.png)
-![Prédictions vs Réalité](images/predictions_vs_realite.png)
+## Visualisations
 
+### RUL par moteur
+![RUL par moteur](images/RUL_par_moteur.png)
+
+### Comparaison Random Forest vs XGBoost
+![Comparaison modèles](images/comparaison_modeles.png)
+
+### Prédictions vs Réalité
+![Prédictions vs Réalité](images/predictions_vs_realite.png)
 ## Dataset
 NASA CMAPSS — C-MAPSS Aircraft Engine Simulator Data  
 100 moteurs simulés, 21 capteurs, 3 paramètres opérationnels
